@@ -18,7 +18,7 @@ const AppWrapper = styled.div`
   align-items: center;
   background-color: #223144;
   color: #fff;
- 
+
   & > * {
     margin: 10px;
   }
@@ -52,8 +52,6 @@ function App() {
       <InputSection setNotesInput={setNotesInput} notesInput={notesInput} />
       <Row>
         <Submit
-          setAnswer={setAnswer}
-          answer={answer}
           notesInput={notesInput}
           setIsCorrect={setIsCorrect}
           chordTarget={chordTarget}
@@ -65,10 +63,8 @@ function App() {
           setIsCorrect={setIsCorrect}
           isCorrectHolderStr={isCorrectHolderStr}
           setAnswer={setAnswer}
-          setNotesInput={setNotesInput}
         />
       </Row>
-
       <IsCorrect isCorrect={isCorrect} />
     </AppWrapper>
   );
