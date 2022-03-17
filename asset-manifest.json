@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chords-notes/static/css/main.e6c13ad2.css",
+    "main.js": "/chords-notes/static/js/main.9039704a.js",
+    "static/js/787.7c7e75ce.chunk.js": "/chords-notes/static/js/787.7c7e75ce.chunk.js",
+    "index.html": "/chords-notes/index.html",
+    "main.e6c13ad2.css.map": "/chords-notes/static/css/main.e6c13ad2.css.map",
+    "main.9039704a.js.map": "/chords-notes/static/js/main.9039704a.js.map",
+    "787.7c7e75ce.chunk.js.map": "/chords-notes/static/js/787.7c7e75ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9039704a.js"
+  ]
+}
